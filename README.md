@@ -328,7 +328,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Backend powered by [Express.js](https://expressjs.com/)
 - Diagrams rendered with [Mermaid](https://mermaid.js.org/)
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
-
----
-
-**Built with 💙 to demonstrate AI-assisted development**
