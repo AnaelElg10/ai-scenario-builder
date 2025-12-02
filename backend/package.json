@@ -1,0 +1,25 @@
+{
+  "name": "ai-scenario-builder-backend",
+  "version": "1.0.0",
+  "description": "Backend API for AI Scenario Builder - Generates workflows, diagrams, and data models from scenario descriptions",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test tests/*.test.js",
+    "lint": "eslint src tests"
+  },
+  "keywords": ["ai", "scenario", "workflow", "mermaid", "api"],
+  "author": "AI Scenario Builder Team",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
